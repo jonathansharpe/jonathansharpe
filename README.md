@@ -6,7 +6,7 @@ I've worked on.
 
 ## 🏟️ Sharpe's Hit List 
 
-This has been an ongoing project for several years now. It exists to track all the major league baseball games I've attended over the years. The project began as a mostly vanilla HTML/CSS/JavaScript project, but has evolved into one that utilizes a database and API to store and fetch the info needed to display to the user. The website allows the user to filter the games page by different criteria, including the year, team, park, and more. The re-write is a way to improve maintainbility and scalability, as before it was a lot of static HTML that had a lot of duplicated code. There is much less of that now and I'm continuing to find ways to optimize it and implement better programming practices. If you want to visit it, the link is here: [jsharpe.xyz](https://jsharpe.xyz).
+This has been an ongoing project for several years now. It exists to track all the major league baseball games I've attended over the years. It began as a mostly vanilla HTML/CSS/JavaScript project, but has evolved into one that utilizes a database and API to store and fetch the info needed to display to the user. The website allows the user to filter the games page by different criteria, including the year, team, park, and more. The re-write is a way to improve maintainbility and scalability, as before it was a lot of static HTML that had a lot of duplicated code. There is much less of that now and I'm continuing to find ways to optimize it and implement better programming practices. If you want to visit it, the link is here: [jsharpe.xyz](https://jsharpe.xyz).
 
 ## 🏫 Software Engineering Project 
 
