@@ -1,4 +1,4 @@
-# 👋 Hello there! 
+# 👋 Hello world! 
 
 I am Jonathan Sharpe, a Seattle Pacific University graduate with a
 Bachelor of Science in Computer Science. Below are some projects that
@@ -6,22 +6,12 @@ I've worked on.
 
 ## 🏟️ Sharpe's Hit List 
 
-This has been an ongoing project for a couple years now, though it
-recently underwent a *major* overhaul. It went from being written in
-essentially vanilla HTML/CSS/JavaScript (with a little Bootstrap) to
-ReactJS, MongoDB, Vite, and TailwindCSS to improve scalability and
-maintainability.
-
-The gist of the site is that I use it as a way to track all the Major
-League Baseball games and parks I've attended, as I'm a big baseball
-fan and it allows me to express my creativity a little bit. It's also
-very easy to show to anyone. The site is located at
-[jsharpe.xyz](https://jsharpe.xyz), so feel free to check it out!
+This has been an ongoing project for several years now. It exists to track all the major league baseball games I've attended over the years. The project began as a mostly vanilla HTML/CSS/JavaScript project, but has evolved into one that utilizes a database and API to store and fetch the info needed to display to the user. The website allows the user to filter the games page by different criteria, including the year, team, park, and more. The re-write is a way to improve maintainbility and scalability, as before it was a lot of static HTML that had a lot of duplicated code. There is much less of that now and I'm continuing to find ways to optimize it and implement better programming practices. If you want to visit it, the link is here: [jsharpe.xyz](https://jsharpe.xyz).
 
 ## 🏫 Software Engineering Project 
 
-During my final year in college, a team of myself and five other
-students produced a web app. Our university's system for course
+During my final year in college, I worked with a team of five other
+students to produce a web app. Our university's system for course
 registration, course planning, time schedule, and suggested course
 sequences was very piecemeal and difficult to use, so we set out to
 rectify that with our Graduation Planning App (GPA). While it wasn't
@@ -32,19 +22,19 @@ and Node.js running the backend. One of our team members also spent a
 lot of time screen-scraping the time schedule on our university's
 website, as we were not provided direct access to the data necessary
 to make course plans. My time was primarily spent working on the
-backend, ensuring that the requests made from the frontend would
+backend API, ensuring that the requests made from the frontend would
 return the necessary data. It essentially was fully functional,
 besides the actual course registration part.
 [Here](https://youtu.be/aMFmd9eoO_I) is a video demonstrating the app.
 
 ## 🖥️ My dotfiles repo 
 
-I have daily-driven Linux for over two years now, and have my dotfiles
+I have daily-driven Linux for many years now, and have my dotfiles
 in a public repo in case anyone is interested in my setup. It's mostly
 just for me at the moment, to sync my config between my two computers,
 but at some point I'll likely spruce it up so there's more to see.
 
-Perhaps the most interesting thing here is my Neovim config, as I've
+Perhaps the most notable thing here is my Neovim config, as I've
 been using that for about the same time I've used Linux. It's gotten
 me some practice with the Lua programming language, which was
 completely unknown to me before using Neovim. I've also of course
@@ -54,28 +44,14 @@ optimize my workflow.
 
 ## ⌨️ Other interests 
 
-I'm big into mechanical keyboards, and own several of them. For layout
-configuration, I've spent time using QMK, but recently switched to
-Vial as it's far more user-friendly and packs essentially the same
-features I was using QMK for. It might be a fun idea to design my own
-keyboard, but that would be quite the undertaking. We'll see, maybe
-someday!
+Like most programmers, I use a mechanical keyboard, and have a small collection. I really appreciate QMK for helping make layout customization easier, though it is difficult to use for non-programming nerds. Vial has helped bridge the gap by providing a more GUI-based approach with the QMK features so it's easier for people to customize their layout.
 
-I also enjoy gaming, and I've considered creating a mod for Minecraft.
-That's another thing that would be quite the undertaking, but
-definitely a good challenge and something I could look into sometime.
+I enjoy Minecraft, and am currently exploring getting into the modding scene, likely starting by contributing to existing projects. It's all new to me but since it's something that's very relevant to my interests I think I will be especially motivated to work on it.
 
 ## 🤔 What's next? 
 
 Sharpe's Hit List is the main project, as it's something I'll work on
-regularly from time to time. I would also like to make a program
-that's not web-based, maybe some kind of command line program for
-Linux. I've been interested in learning Rust since it's a pretty big
-language these days, but I'll have to find something to actually do
-with it.
-
-In general though, I'll have to come up with some problem
-I'm looking to solve, and write a program to solve it.
+regularly from time to time. I want to work on contributing to open-source projects, as personally I don't have many ideas of things to create myself, but I want to help contribute to the community in some way.
 
 ## 📥 Contact
 
